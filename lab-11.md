@@ -1,7 +1,7 @@
-Lab 11 - Grading the professor, Pt. 2
+Lab 10 - Grading the professor, Pt. 2
 ================
-Insert your name here
-Insert date here
+Tiffani Hill
+03-22-2026
 
 ## Load packages and data
 
